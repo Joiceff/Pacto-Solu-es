@@ -30,7 +30,7 @@ pacto-teste-automacao/
 ## ⚙️ Instalação
 Clone o repositório e entre na pasta do projeto:
 ```bash
-git clone https://github.com/seu-usuario/pacto-teste-automacao.git
+git clone https://github.com/Joiceff/Pacto-Solu-es.git
 cd pacto-teste-automacao
 ```
 
